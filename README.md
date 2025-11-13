@@ -1,1 +1,3 @@
+# vehicle-rental-system-c
+
 This repository was created as part of a programming assignment to develop a vehicle rental application using the C programming language. The purpose of this project is to implement a system that facilitates the rental process for both cars and motorcycles, providing a simple and efficient way for customers to make rentals.
